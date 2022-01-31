@@ -17,7 +17,7 @@
 
 ## Libraries 
 ```
-"pandas
+pandas
 numpy
 seaborn
 matplotlib
